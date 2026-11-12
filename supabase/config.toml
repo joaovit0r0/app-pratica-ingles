@@ -1,0 +1,5 @@
+# Configuração mínima para a CLI do Supabase (supabase link / functions deploy / db push).
+project_id = "app-pratica-ingles"
+
+[functions.ia]
+verify_jwt = true
