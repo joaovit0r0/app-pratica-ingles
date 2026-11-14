@@ -44,7 +44,7 @@ Ou, pela CLI (dentro desta pasta):
 ```bash
 npx supabase login
 npx supabase link --project-ref SEU_PROJECT_REF
-npx supabase db push
+npx supabase db push --remote
 ```
 
 e depois rode o `seed.sql` pelo SQL Editor.
